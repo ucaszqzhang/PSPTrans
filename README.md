@@ -55,10 +55,10 @@ Replace "test.fasta" with your fasta file in Step 5. You can only run one file a
 ## Step 7: 
 After running, exit or delete your virtual environment.
 exit virtual environment  
-```deactivate```
+```deactivate```  
 delete virtual environment  
 ```conda env remove -n PSPTrans```
 
 
 test :
-python3  llps_lsf.py  -i lsf_test.fasta  -o_llps lsf0617
+```python3  llps_lsf.py  -i lsf_test.fasta  -o_llps lsf0617```

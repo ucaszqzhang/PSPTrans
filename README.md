@@ -1,7 +1,7 @@
 # How to run the PSPTrans
 
 ## Step 0: 
-Due to storage space limitations, please download "prot_t5_xl_bfd"[here](http://bio-comp.ucas.ac.cn/onlineserver/PSPtrans/file_down_prot_t5_xl_bfd)
+Due to storage space limitations, please download "prot_t5_xl_bfd" [here](http://bio-comp.ucas.ac.cn/onlineserver/PSPtrans/file_down_prot_t5_xl_bfd)
 
 
 ## Step 1: 
